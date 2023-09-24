@@ -1,4 +1,4 @@
-function firstNonRepeatedChar(str) {
+function firstNonRepeatedChar(inputString) {
  // Write your code here
 	const charFrequency = {};
 
